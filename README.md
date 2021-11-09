@@ -1,2 +1,1 @@
-# sorteio-locais-elei-o
-Algoritmo desenvolvido para sortear os locais de divulgação no Campus Colinas, dos candidatos a reitor. 
+# Algoritmo desenvolvido para sortear os locais de divulgação no Campus Colinas, dos candidatos a reitor. 
